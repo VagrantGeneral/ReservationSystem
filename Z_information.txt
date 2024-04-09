@@ -1,0 +1,1 @@
+此项目包含了Json，Socket，Libevent，MySQL等，因此建议在Linux下运行
